@@ -1,8 +1,8 @@
 ### Bem-Vindo ao meu perfil 😎
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-tavares)
-
-<img src="[[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/pt-BR/view/rebrnd-coding-programmer-programming-gif-5486586409214780761)](https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif)" width="100" height="100" />
+[
+![grab-landing-page](https://github.com/MarvinTL-24/Perfil/blob/main/rebrnd-coding.gif)
 
 ![Marvin Tavares Lopes](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&show_icons=true&theme=tokyonight)
 
