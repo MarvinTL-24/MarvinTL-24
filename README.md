@@ -7,7 +7,7 @@
 ![grab-landing-page](https://github.com/MarvinTL-24/Perfil/blob/main/rebrnd-coding.gif)
 <br>
 ### Minhas Principais Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTL-24&exclude_repo=github-readme-stats,anuraghazra.github.io)
 <br>
 ### Sobre Mim
 👨‍💻 Sou apaixonado por tecnologia, mas desejo me aprimorar no desenvolvimento de sites interativos com o usuário e em bancos de dados.
