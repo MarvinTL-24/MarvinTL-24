@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-tavares)
 
-![Alt Text](https://tenor.com/pt-BR/view/rebrnd-coding-programmer-programming-gif-5486586409214780761)
+<div class="tenor-gif-embed" data-postid="5486586409214780761" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rebrnd-coding-programmer-programming-gif-5486586409214780761">Rebrnd Coding Sticker</a>from <a href="https://tenor.com/search/rebrnd-stickers">Rebrnd Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ![Marvin Tavares Lopes](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&show_icons=true&theme=tokyonight)
 
