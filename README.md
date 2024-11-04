@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-tavares)
 
-![coding gif](https://media.tenor.com/5486586409214780761.gif)
+![coding gif]([https://media.tenor.com/5486586409214780761.gif](https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif))
 
 ![Marvin Tavares Lopes](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&show_icons=true&theme=tokyonight)
 
