@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarvinTL24)
 <br>
-![Marvin Tavares Lopes](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&show_icons=true&theme=tokyonight)
+![MarvinTL-24's Stats](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&show_icons=true&theme=tokyonight)
 <br>
 ![grab-landing-page](https://github.com/MarvinTL-24/Perfil/blob/main/rebrnd-coding.gif)
 <br>
@@ -14,4 +14,4 @@
 <br>
 ### Vamos nos conectar!
 Sinta-se à vontade para entrar em contato!
-![MarvinTL-24's Stats](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+
