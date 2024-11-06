@@ -14,3 +14,4 @@
 <br>
 ### Vamos nos conectar!
 Sinta-se à vontade para entrar em contato!
+![MarvinTL-24's Stats](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
