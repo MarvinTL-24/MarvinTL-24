@@ -13,7 +13,7 @@
 👨‍💻 Sou apaixonado por tecnologia, mas desejo me aprimorar no desenvolvimento de sites interativos com o usuário e em bancos de dados.
 <br>
 <br>
-<a href="https://www.flaticon.com/br/icones-gratis/www" title="www ícones">Www ícones criados por Freepik - Flaticon</a> -> https://marvintl-24.github.io/Descronic/
+<a href="https://www.flaticon.com/br/icones-gratis/www" title="www ícones"></a> -> https://marvintl-24.github.io/Descronic/
 <br>
 ### Vamos nos conectar!
 Sinta-se à vontade para entrar em contato!
