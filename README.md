@@ -12,8 +12,7 @@
 ### Sobre Mim
 👨‍💻 Sou apaixonado por tecnologia, mas desejo me aprimorar no desenvolvimento de sites interativos com o usuário e em bancos de dados.
 <br>
-<br>
- -> https://marvintl-24.github.io/Descronic/
+ ![grab-landing-page](https://github.com/MarvinTL-24/Perfil/blob/main/navegador.gif)-> https://marvintl-24.github.io/Descronic/
 <br>
 ### Vamos nos conectar!
 Sinta-se à vontade para entrar em contato!
