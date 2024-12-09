@@ -13,7 +13,7 @@
 🌐https://marvintl-24.github.io/Descronic/
 <br>
 ### Vamos nos conectar! 🤝
-Sinta-se à vontade para entrar em contato e conversar sobre possíveis colaborações! 🤝
-Você pode me encontrar atraves das plataformas abaixo:
-📞(88) 99808-9667
+Sinta-se à vontade para entrar em contato e conversar sobre possíveis colaborações! 🤝 <br>
+Você pode me encontrar atraves das plataformas abaixo: <br>
+📞(88) 99808-9667 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarvinTL24)
