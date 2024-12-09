@@ -10,11 +10,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTL-24&exclude_repo=github-readme-stats,anuraghazra.github.io)
 <br>
 ### Sobre Mim
-👨‍💻 Sou apaixonado por tecnologia, mas desejo me aprimorar no desenvolvimento de sites interativos com o usuário e em bancos de dados.
+👨‍💻  Apaixonado por tecnologia, estou em constante busca de aprimoramento, com foco no desenvolvimento de sites interativos e na gestão de bancos de dados. 
+    Busco integrar inovação e eficiência em cada projeto que me envolvo.
 <br>
--> https://marvintl-24.github.io/Descronic/
+🌐https://marvintl-24.github.io/Descronic/
 <br>
-### Vamos nos conectar!
+### Vamos nos conectar! 🤝
 Sinta-se à vontade para entrar em contato!
 <br>
--> (88) 99808-9667
+📞(88) 99808-9667
