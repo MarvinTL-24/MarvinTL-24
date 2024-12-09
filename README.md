@@ -12,6 +12,11 @@
 ### Sobre Mim
 👨‍💻 Sou apaixonado por tecnologia, mas desejo me aprimorar no desenvolvimento de sites interativos com o usuário e em bancos de dados.
 <br>
+Primeiro site em vigor: 
+<br>
+-> https://marvintl-24.github.io/Descronic/
+<br>
 ### Vamos nos conectar!
 Sinta-se à vontade para entrar em contato!
-
+<br>
+-> (88) 99808-9667
