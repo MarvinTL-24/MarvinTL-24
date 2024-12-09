@@ -1,8 +1,4 @@
 ### Bem-vindo ao meu perfil! 👋
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarvinTL24)
-<br>
 ![MarvinTL-24's Stats](https://github-readme-stats.vercel.app/api?username=MarvinTL-24&show_icons=true&theme=tokyonight)
 <br>
 ![grab-landing-page](https://github.com/MarvinTL-24/Perfil/blob/main/rebrnd-coding.gif)
@@ -17,6 +13,7 @@
 🌐https://marvintl-24.github.io/Descronic/
 <br>
 ### Vamos nos conectar! 🤝
-Sinta-se à vontade para entrar em contato!
-<br>
+Sinta-se à vontade para entrar em contato e conversar sobre possíveis colaborações! 🤝
+Você pode me encontrar atraves das plataformas abaixo:
 📞(88) 99808-9667
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarvinTL24)
