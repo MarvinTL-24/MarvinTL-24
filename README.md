@@ -11,6 +11,7 @@
     Estou em constante busca de aprimoramento, com foco no desenvolvimento de sites interativos e na gestão de bancos de dados.<br>
     Busco integrar inovação e eficiência em cada projeto que me envolvo.<br><br>
 🌐https://marvintl-24.github.io/Descronic/
+🌐https://desenvolvedor-python-des-gjgv7f3.gamma.site
 <br>
 ### Vamos nos conectar! 🤝
 Sinta-se à vontade para entrar em contato e conversar sobre possíveis colaborações! 🤝 <br>
