@@ -30,7 +30,7 @@ and memorable — especially within **games and interactive web projects**.
 
 ### 🕹️ The Ashen OZ
 Dark fantasy game concept website with immersive visuals and interactive elements.  
-🔗 https://marvintl-24.github.io/TheOZ
+🔗 --It will be posted as soon as permission is granted and at the right time--
 
 ### 🧠 Descronic
 Modern interactive web application focused on user experience and clean UI.  
@@ -47,7 +47,8 @@ Narrative-driven interactive website with storytelling and visual atmosphere.
 ### **Front-End Developer — Ashbone Games**  
 *Concept Project*
 
-- Led development of *The Ashen OZ* from concept to deployment  
+- I developed the initial concept of *The Ashen OZ* website with the assistance of the game's development and creation team.
+  I hope to continue supporting it until the official launch of the site.  
 - Built a cohesive visual identity using custom CSS theming  
 - Implemented smooth navigation, modals, and interactive elements  
 
